@@ -27,7 +27,7 @@ Possible reasons of packet loss:
 3. Duplex mistmatch  
 
 When [nic.ru](nic.ru) was pinged with packet sizes 64, 128, 512, 1024 and 2048 (in bytes), we observed that:   
-* Avergae RTT increases with increase in packet size (though the increase is very small)   
+* Avergae RTT increases with increase in packet size (though the increase is very very small)   
 * Avergae RTT is different on different time of the day irrespective of packet size (again the change is difference is small)
 
 ---
